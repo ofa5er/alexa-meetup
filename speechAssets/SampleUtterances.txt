@@ -1,6 +1,7 @@
+NameCapture my name is {USFirstName}
+NameCapture my name is {UKFirstName}
 
-Hello hello
-Hello hi
+CountryCapture im from {Country}
 
 AlexaMeetupNumbers how many cities have alexa meetups
 AlexaMeetupNumbers how many alexa meetups are there
